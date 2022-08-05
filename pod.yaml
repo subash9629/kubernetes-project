@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: subash/kuberimage:latest
+          image: subash/kubertag:latest
           imagePullPolicy: Always
